@@ -1,0 +1,5 @@
+TE000	Farina binti Ahmad	Female	22	0134488912	farina1999@gmail.com	33, Jalan Rotan, Taman Rotan, 81310 Johor Bahru, Johor.	55.6	1.61	2	TR003
+TE001	Hamaludin binti Abu	Female	23	0178812456	hama@gmail.com	2, Taman Fuji, 81310 Johor Bahru, Johor.	48.5	1.59	1	TR002
+TE002	Hu Jie Ying	Female	34	0132375901	hjying@hotmail.com	2, Jalan Soga, Taman Bahagia, 81310 Johor Bahru, Johor.	60	1.7	10	TR004
+TE003	Kok Kai Liang	Male	28	0191187265	kok0707@yahoo.com	14, Taman Liga, 81310 Johor Bahru, Johor.	77	1.81	8	TR000
+TE004	Lee Wen Wen	Female	21	0186252899	leeww@gmail.com	25-1, Jalan Suria, Taman Julia, 81310 Johor Bahru, Johor.	44	1.55	7	TR001

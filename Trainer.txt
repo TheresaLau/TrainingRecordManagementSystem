@@ -1,0 +1,5 @@
+TR000	Muhammad Ahmad bin Ali	Male	24	0177711888	mahmad@gamil.com	1, Jalan Soga, Taman Bahagia, 81310 Johor Bahru, Johor.	77.3	1.72
+TR001	Juliana Fara binti Samaludin	Female	31	01255667990	juliana@gmail.com	14, Jalan Durian, Taman Buah, 81310 Johor Bahru, Johor.	55.5	1.63
+TR002	Tan Chong Wei	Male	25	0141122434	tcw@yahoo.com	2, Taman Liga, 81310 Johor Bahru, Johor.	68.6	1.75
+TR003	Lee Wei Wen	Female	27	0198878001	wwen@hotmail.com	22-1, Jalan Suria, Taman Julia, 81310 Johor Bahru, Johor.	49.5	1.61
+TR004	Sylvia A/P Sandanasamy	Female	33	0167788910	sylvia@yahoo.com	9, Jalan Soga, Taman Bahagia, 81310 Johor Bahru, Johor.	53.1	1.66
